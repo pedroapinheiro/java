@@ -42,7 +42,9 @@ public class exercicio_1VETOR {
 		
 		System.out.println("Média: " + media);
 		leia.close();
-	}
+		
+		
+		}
 			
 
 	}
