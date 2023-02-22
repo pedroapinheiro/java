@@ -5,5 +5,5 @@
  * @author Pedro
  *
  */
-module Atv_POO {
+module aula_06 {
 }
